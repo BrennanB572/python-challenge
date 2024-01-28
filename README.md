@@ -1,5 +1,7 @@
 # python-challenge
 
+Project completed with Ritika Changulani
+
 # Before You Begin
 Before starting the assignment, be sure to complete the following steps:
 
